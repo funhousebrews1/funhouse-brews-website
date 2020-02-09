@@ -25,6 +25,12 @@ module.exports = {
         path: `${__dirname}/src/beer`,
       },
     },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `funhousebrews`,
+      },
+    },
     `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',

@@ -34,9 +34,14 @@ const formatABV = (abvString) => {
   }
 }
 
+const getInstaURI = (id) => {
+  return id ? `https://www.instagram.com/p/${id}/` : 'https://www.instagram.com/funhousebrews/';
+}
+
 const Index = ({ data }) => {
   const [stickyNav, setStickyNav] = useState(false);
   const beers = data && data.allMarkdownRemark && data.allMarkdownRemark.nodes || [];
+  const instas = data && data.allInstaNode && data.allInstaNode.nodes || [];
 
   const handleWaypointEnter = () => {
     setStickyNav(false);
@@ -155,12 +160,39 @@ const Index = ({ data }) => {
           </header>
         </section>
 
+            {/* 
+            const node = {
+                likes: 13,
+                comments: 1,
+                caption: 'Work of art',
+                timestamp: 1580438759,
+                localFile: {
+                  publicURL: '/static/81958005_614438082674970_2320960499291329274_n-0900f286240907962dee5c0d2bdd3112.jpg'
+              }
+            */}
+
         <section id="cta" className="main special">
           <header className="major">
             <h2>Instagram</h2>
-            <p>
-              Preview coming soon! In the meantime, check out our instagram <a href="https://www.instagram.com/funhousebrews/" target="blank">here</a>.
-            </p>
+            <ul className="statistics">
+              {
+                instas.map((insta, i) => (
+                  <li className={`style${i}`}>
+                    <a href={getInstaURI(insta.id)} target="blank">
+                      <div className="insta-container">
+                        <img src={insta.localFile.publicURL} className="insta"/>
+                      </div>
+                    </a>
+                  </li>
+                ))
+              }
+              {/*
+              <li className="style1">
+                <span className="icon fa-code-fork"></span>
+                <strong>5,120</strong> Etiam
+              </li>
+              */}
+            </ul>
           </header>
           {/* <footer className="major">
             <ul className="actions">
@@ -193,6 +225,18 @@ query MyQuery {
         title
       }
       rawMarkdownBody
+    }
+  }
+  allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+    nodes {
+      caption
+      comments
+      id
+      likes
+      localFile {
+        publicURL
+      }
+      timestamp
     }
   }
 }
