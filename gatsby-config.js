@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Stellar by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
+    title: "Funhouse Brews",
+    author: "Alan Ray Ampersand",
+    description: "Website for Funhouse Brews, a microbrewery in Portland, Oregon.",
+    url: "https://www.funhousebrews.com"
   },
   plugins: [
     {
@@ -27,6 +28,7 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass'
+    'gatsby-plugin-sass',
+    `gatsby-transformer-remark`
   ],
 }

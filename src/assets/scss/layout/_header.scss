@@ -45,6 +45,7 @@
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
+					// min-height: 0.2vh;
 				}
 			}
 		}
@@ -109,7 +110,7 @@
 				}
 
 				.logo {
-					@include vendor('transform', 'scale(0.8) rotate(-30deg)');
+					@include vendor('transform', 'scale(0.8)');
 				}
 			}
 		}
