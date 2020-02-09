@@ -20,7 +20,7 @@
 		}
 
 		&.alt {
-			@include padding(6em, 5em, (1em, 0, 0, 0));
+			@include padding(3em, 5em, (1em, 0, 0, 0));
 
 			h1 {
 				font-size: 3.25em;
@@ -40,7 +40,7 @@
 				@include vendor('transition-delay', '0s');
 				display: block;
 				margin: 0 0 (_size(element-margin) * 0.75) 0;
-
+				// height: 318px;
 				img {
 					display: block;
 					margin: 0 auto;
@@ -53,7 +53,7 @@
 			@include padding(4em, 4em, (0, 0, -2em, 0));
 
 			&.alt {
-				@include padding(5em, 4em, (1em, 0, 0, 0));
+				@include padding(3em, 4em, (1em, 0, 0, 0));
 			}
 		}
 
@@ -61,7 +61,7 @@
 			@include padding(4em, 3em, (0, 0, -2em, 0));
 
 			&.alt {
-				@include padding(4em, 3em, (1em, 0, 0, 0));
+				@include padding(3em, 3em, (1em, 0, 0, 0));
 			}
 		}
 
