@@ -10,7 +10,7 @@ collections:
     create: true
     fields:
       - { name: "title", label: "Name" , widget: "string" }
-      - { name: "image", label: "Image", widget: "image", required: "false" }
+      - { name: "image", label: "Image", widget: "image", required: false }
       - { name: "abv", label: "ABV", widget: "string" }
       - { name: "ibu", label: "IBU", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown" }
