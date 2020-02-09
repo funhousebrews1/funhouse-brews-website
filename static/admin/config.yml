@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: funhousebrews1/funhouse-brews-website
+media_folder: static/assets
+public_folder: /assets
+collections:
+  - name: beer
+    label: Beer
+    folder: src/beer
+    create: true
+    fields:
+      - { name: "title", label: "Name" , widget: "string" }
+      - { name: "image", label: "Image", widget: "image" }
+      - { name: "abv", label: "ABV", widget: "string" }
+      - { name: "ibu", label: "IBU", widget: "string" }
+      - { name: "body", label: "Body", widget: "markdown" }

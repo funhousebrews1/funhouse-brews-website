@@ -5,7 +5,6 @@ module.exports = {
     description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -18,7 +17,16 @@ module.exports = {
         icon: 'src/assets/images/favicon.png', // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `beer`,
+        path: `${__dirname}/src/beer`,
+      },
+    },
+    `gatsby-plugin-netlify-cms`,
+    'gatsby-plugin-offline',
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sass'
   ],
 }
