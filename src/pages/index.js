@@ -104,6 +104,11 @@ const Index = ({ data }) => {
                       {
                         image && (
                           <img 
+                            src={image} 
+                            className="beer-image"
+                            alt='' />
+                        ) || (
+                          <img 
                             src={noImage} 
                             className="beer-image"
                             alt='' />
