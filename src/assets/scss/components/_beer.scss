@@ -1,5 +1,18 @@
 /* Beer */
 
+.beer-image-container {
+  height: 310px;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+.beer-image {
+  max-height: 310px;
+  max-width: 100%;
+  height: auto;
+}
+
 .beer-title {
   margin-bottom: 0.2em;
 }

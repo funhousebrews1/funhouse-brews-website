@@ -100,7 +100,16 @@ const Index = ({ data }) => {
 
                 return (
                   <li>
-                    {image && <img src={image} height='310px' alt='' />}
+                    <div className="beer-image-container">
+                      {
+                        image && (
+                          <img 
+                            src={image} 
+                            className="beer-image"
+                            alt='' />
+                        )
+                      }
+                    </div>
                     <h2 className="beer-title">
                       {title}
                     </h2>
