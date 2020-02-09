@@ -9,6 +9,31 @@ import Layout from '../components/layout'
 import Nav from '../components/Nav'
 import SEO from '../components/SEO'
 
+/**
+ * util function for formatting the ABV % string from Netlify
+ */
+const formatABV = (abvString) => {
+  const trimmed = abvString.trim();
+  if (!trimmed) {
+    return '';
+  }
+
+  let noSymbol;
+  // strip out the percentage sign, if any
+  if (abvString.indexOf('%') > -1) {
+    noSymbol = abvString.substr(0,abvString.indexOf('%'));
+  } else {
+    noSymbol = abvString;
+  }
+
+  const asNumber = Number(noSymbol);
+  if (Number.isNaN(asNumber)) {
+    return noSymbol + '%';
+  } else {
+    return asNumber.toFixed(1) + '%';
+  }
+}
+
 const Index = ({ data }) => {
   const [stickyNav, setStickyNav] = useState(false);
   const beers = data && data.allMarkdownRemark && data.allMarkdownRemark.nodes || [];
@@ -89,7 +114,7 @@ const Index = ({ data }) => {
                     </span>
                     <span className="abv-label">
                       {
-                        `${abv} ABV`
+                        `${formatABV(abv)} ABV`
                       }
                     </span>
                   </li>
