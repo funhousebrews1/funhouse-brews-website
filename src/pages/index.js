@@ -1,13 +1,13 @@
 import { Link } from 'gatsby'
 import { graphql } from "gatsby"
 import React, { useState } from 'react'
-import Helmet from 'react-helmet'
 import { Waypoint } from 'react-waypoint'
 import jason from '../assets/images/jason.png'
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
 import SEO from '../components/SEO'
+import noImage from '../assets/images/no-image.png';
 
 /**
  * util function for formatting the ABV % string from Netlify
@@ -105,6 +105,11 @@ const Index = ({ data }) => {
                         image && (
                           <img 
                             src={image} 
+                            className="beer-image"
+                            alt='' />
+                        ) || (
+                          <img 
+                            src={noImage} 
                             className="beer-image"
                             alt='' />
                         )
