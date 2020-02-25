@@ -1,5 +1,6 @@
 ---
 title: The Funky Drummer
+image: /assets/amber  beer.jpg
 abv: '5.5'
 ibu: '36'
 ---
