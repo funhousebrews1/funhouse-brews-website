@@ -145,7 +145,7 @@ const Index = ({ data }) => {
 
         <section id="second" className="main special">
           <header className="major">
-            <h2>Growler Fill Thursdays!</h2>
+            <h3>Growler Fill Thursdays!</h3>
             <p className="line-breaks">
               Opening for Winter on January 9th. <br/>
               (We will usually be closed in the event of rain during the winter) <br/>
