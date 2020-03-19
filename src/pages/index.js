@@ -147,8 +147,8 @@ const Index = ({ data }) => {
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
             <p className="line-breaks">
-              Opening for Winter on January 9th. <br/>
-              (We will usually be closed in the event of rain during the winter) <br/>
+              Opening for Spring on March 26th (COVID permitting). <br/>
+              (We will usually be closed in the event of rain) <br/>
               $10 fill! <br/>
               6-8 p.m. at the Funhouse Brewery on Thursdays <br/>
               7717 N Emerald Ave <br/>
