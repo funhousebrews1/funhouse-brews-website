@@ -147,7 +147,7 @@ const Index = ({ data }) => {
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
             <p className="line-breaks">
-              Opening for Spring on March 26th (COVID permitting). <br/>
+              Opening for Spring on April 9th (COVID socila distancing and sanitization measure in effect). Please Note, we accept Venmo as payment. Sign up for Venmo prior to arrival and we can process payment on site. <br/>
               (We will usually be closed in the event of rain) <br/>
               $10 fill! <br/>
               6-8 p.m. at the Funhouse Brewery on Thursdays <br/>
