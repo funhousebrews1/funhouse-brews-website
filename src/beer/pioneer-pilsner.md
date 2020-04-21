@@ -1,5 +1,6 @@
 ---
 title: Pioneer Pilsner
+image: /assets/Pioneer Pilsner.jpg
 abv: '5.6'
 ibu: '36'
 ---
