@@ -146,7 +146,7 @@ const Index = ({ data }) => {
         <section id="second" className="main special">
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
-            <h3>Special Guest Nehalem River Ranch Friday May7 from 4-7 p.m. Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at Nehalem River Ranch</a></h3>
+            <h3>Special Guest Nehalem River Ranch Thursday May7 from 4-8 p.m. Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></h3>
 <p className="line-breaks">
               Opening for Spring on April 23th (COVID socila distancing and sanitization measures in effect). Please Note, we accept Venmo as payment (funhousebrews). Sign up for Venmo prior to arrival and we can process payment on site. <br/>
               (We will usually be closed in the event of rain.) <br/>
