@@ -21,7 +21,7 @@ const formatABV = (abvString) => {
   let noSymbol;
   // strip out the percentage sign, if any
   if (abvString.indexOf('%') > -1) {
-    noSymbol = abvString.substr(0,abvString.indexOf('%'));
+    noSymbol = abvString.substr(0, abvString.indexOf('%'));
   } else {
     noSymbol = abvString;
   }
@@ -69,24 +69,20 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-    <h2>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h2> 
-Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at 
-Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
-<p className="line-breaks">
-    
-    <h2>Terra Farma May 28</h2>
-    <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
-    CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
-    
-    <p className="line-breaks">
-    
-</header>
+                <h2>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h2>
+                Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
+                Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
+                <p className="line-breaks">
+                  <h2>Terra Farma May 28</h2>
+                  <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
+                  CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
+                <p className="line-breaks">
+                  </p>
+                </p>
+              </header>
               <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
-                <br/>
-    
-    
-    
+                <br />
                 In addition to brewing, Jason Rizos is an author of <a href="https://www.amazon.com/-/e/B006FO3LSS" target="blank">fiction and nonfiction</a>, and a writing teacher at Portland Community College. He enjoys exploring the wonders of Pacific Northwest outdoors with his wife and two whippets, Supernova and Delilah. Here he is pictured at Horsetail Falls with Dee.
               </p>
               {/* <ul className="actions">
@@ -122,13 +118,13 @@ Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa
                     <div className="beer-image-container">
                       {
                         image && (
-                          <img 
-                            src={image} 
+                          <img
+                            src={image}
                             className="beer-image"
                             alt='' />
                         ) || (
-                          <img 
-                            src={noImage} 
+                          <img
+                            src={noImage}
                             className="beer-image"
                             alt='' />
                         )
@@ -160,26 +156,26 @@ Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa
         <section id="second" className="main special">
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
-            <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m. 
-Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at 
+            <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.
+Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></h3>
-<p className="line-breaks">
-              Opening for Spring on April 23th (COVID social distancing and sanitization measures in effect). 
-Please Note, we accept Venmo as payment (funhousebrews). 
-Sign up for Venmo prior to arrival and we can process payment on site. <br/>
-              (We will usually be closed in the event of rain.) <br/>
-              $10 fill! <br/>
-              6-8 p.m. at the Funhouse Brewery on Thursdays <br/>
-              7717 N Emerald Ave <br/>
-              Portland, OR 97217 <br/>
-              Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br/>
-              ​
+            <p className="line-breaks">
+              Opening for Spring on April 23th (COVID social distancing and sanitization measures in effect).
+              Please Note, we accept Venmo as payment (funhousebrews).
+Sign up for Venmo prior to arrival and we can process payment on site. <br />
+              (We will usually be closed in the event of rain.) <br />
+              $10 fill! <br />
+              6-8 p.m. at the Funhouse Brewery on Thursdays <br />
+              7717 N Emerald Ave <br />
+              Portland, OR 97217 <br />
+              Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br />
+
               Occasional Music featuring John White
             </p>
           </header>
         </section>
 
-            {/* 
+        {/* 
             const node = {
                 likes: 13,
                 comments: 1,
@@ -199,7 +195,7 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br/>
                   <li className={`style${i}`}>
                     <a href={getInstaURI(insta.id)} target="blank">
                       <div className="insta-container">
-                        <img src={insta.localFile.publicURL} className="insta"/>
+                        <img src={insta.localFile.publicURL} className="insta" />
                       </div>
                     </a>
                   </li>
