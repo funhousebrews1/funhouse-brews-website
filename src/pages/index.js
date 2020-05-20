@@ -69,13 +69,13 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-    <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h3>
+    <h2>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h2> 
 Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at 
 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
 <p className="line-breaks">
     
-    <h3>Terra Farma May 28</h3>
-    <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"</img>
+    <h2>Terra Farma May 28</h2>
+    <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
     CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
     
     <p className="line-breaks">
