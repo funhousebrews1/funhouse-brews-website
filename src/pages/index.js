@@ -80,7 +80,7 @@ Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa
     
     <p className="line-breaks">
     
-    </header>
+</header>
               <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
                 <br/>
