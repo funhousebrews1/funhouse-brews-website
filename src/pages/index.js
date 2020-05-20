@@ -74,15 +74,16 @@ const Index = ({ data }) => {
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
                 <br/>
     
-    <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m. 
+    <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h3>
 Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at 
-Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></h3>
+Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
 <p className="line-breaks">
     
     <h3>Terra Farma May 28</h3>
     <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"</img>
     CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
     
+    <p className="line-breaks">
     
                 In addition to brewing, Jason Rizos is an author of <a href="https://www.amazon.com/-/e/B006FO3LSS" target="blank">fiction and nonfiction</a>, and a writing teacher at Portland Community College. He enjoys exploring the wonders of Pacific Northwest outdoors with his wife and two whippets, Supernova and Delilah. Here he is pictured at Horsetail Falls with Dee.
               </p>
