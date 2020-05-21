@@ -79,13 +79,13 @@ const Index = ({ data }) => {
                 <p className="line-breaks">
                   </p>
                 </p>
-              </header>
-              <p>
+     <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
                 <br />
                 In addition to brewing, Jason Rizos is an author of <a href="https://www.amazon.com/-/e/B006FO3LSS" target="blank">fiction and nonfiction</a>, and a writing teacher at Portland Community College. He enjoys exploring the wonders of Pacific Northwest outdoors with his wife and two whippets, Supernova and Delilah. Here he is pictured at Horsetail Falls with Dee.
               </p>
-              {/* <ul className="actions">
+              </header>
+             {/* <ul className="actions">
                 <li>
                   <Link to="/generic" className="button">
                     Learn More
