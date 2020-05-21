@@ -72,13 +72,11 @@ const Index = ({ data }) => {
                 <h2>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.</h2>
                 Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
-                <p className="line-breaks">
+                <p className="line-breaks"> </p>
                   <h2>Terra Farma May 28</h2>
                   <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
                   CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
-                <p className="line-breaks">
-                  </p>
-                </p>
+                              
      <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
                 <br />
