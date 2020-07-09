@@ -73,7 +73,7 @@ const Index = ({ data }) => {
                 Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
                 <p className="line-breaks"> </p>
-                  <h2>Terra Farma July 30</h2>
+                  <h2>Terra Farma</h2>
                   <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
                   CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
                               
