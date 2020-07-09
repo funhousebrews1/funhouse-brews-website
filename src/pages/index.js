@@ -69,11 +69,11 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Special Guest Nehalem River Ranch Thursday May 21 from 5-8 p.m.</h2>
+                <h2>Special Guest Nehalem River Ranch, check later for dates in July from 6-8 p.m.</h2>
                 Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img>
                 <p className="line-breaks"> </p>
-                  <h2>Terra Farma May 28</h2>
+                  <h2>Terra Farma July 30</h2>
                   <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
                   CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
                               
@@ -154,11 +154,8 @@ const Index = ({ data }) => {
         <section id="second" className="main special">
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
-            <h3>Special Guest Nehalem River Ranch Thursday May 21 from 4-8 p.m.
-Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
-Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></h3>
             <p className="line-breaks">
-              Opening for Spring on April 23th (COVID social distancing and sanitization measures in effect).
+              We will be closed July 16th for Summer Break, reopening July 23 (COVID social distancing and sanitization measures in effect).
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
               (We will usually be closed in the event of rain.) <br />
