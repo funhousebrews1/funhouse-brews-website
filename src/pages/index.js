@@ -155,7 +155,6 @@ const Index = ({ data }) => {
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
             <p className="line-breaks">
-<p>
               We will be closed July 16th for Summer Break, reopening July 23 (COVID social distancing and sanitization measures in effect).
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
