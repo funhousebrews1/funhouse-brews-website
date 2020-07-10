@@ -77,7 +77,7 @@ const Index = ({ data }) => {
                   <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img>
                   CSA for Terra Farma begins this summer! Growler fills available, pickup 5-8 p.m.
                               
-     <p>
+   <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
                 <br />
                 In addition to brewing, Jason Rizos is an author of <a href="https://www.amazon.com/-/e/B006FO3LSS" target="blank">fiction and nonfiction</a>, and a writing teacher at Portland Community College. He enjoys exploring the wonders of Pacific Northwest outdoors with his wife and two whippets, Supernova and Delilah. Here he is pictured at Horsetail Falls with Dee.
@@ -155,6 +155,7 @@ const Index = ({ data }) => {
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
             <p className="line-breaks">
+<p>
               We will be closed July 16th for Summer Break, reopening July 23 (COVID social distancing and sanitization measures in effect).
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
