@@ -170,9 +170,11 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br />
           </header>
         </section>
 
-        // -----------------------
-        // start insta stuff
-        // -----------------------
+        {/* 
+          -----------------------
+          start insta stuff
+          -----------------------
+        */}
 
         {/* <section id="cta" className="main special">
           <header className="major">
@@ -193,10 +195,12 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br />
           </header>
         </section> */}
 
+        {/* 
+          -----------------------
+          end insta stuff
+          -----------------------
+        */}
 
-        // -----------------------
-        // end insta stuff
-        // -----------------------
 
       </div>
     </Layout>
