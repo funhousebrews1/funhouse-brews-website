@@ -170,18 +170,11 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br />
           </header>
         </section>
 
-        {/* 
-            const node = {
-                likes: 13,
-                comments: 1,
-                caption: 'Work of art',
-                timestamp: 1580438759,
-                localFile: {
-                  publicURL: '/static/81958005_614438082674970_2320960499291329274_n-0900f286240907962dee5c0d2bdd3112.jpg'
-              }
-            */}
+        // -----------------------
+        // start insta stuff
+        // -----------------------
 
-        <section id="cta" className="main special">
+        {/* <section id="cta" className="main special">
           <header className="major">
             <h2>Instagram</h2>
             <ul className="statistics">
@@ -196,29 +189,15 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br />
                   </li>
                 ))
               }
-              {/*
-              <li className="style1">
-                <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
-              </li>
-              */}
             </ul>
           </header>
-          {/* <footer className="major">
-            <ul className="actions">
-              <li>
-                <Link to="/generic" className="button special">
-                  Get Started
-                </Link>
-              </li>
-              <li>
-                <Link to="/generic" className="button">
-                  Learn More
-                </Link>
-              </li>
-            </ul>
-          </footer> */}
-        </section>
+        </section> */}
+
+
+        // -----------------------
+        // end insta stuff
+        // -----------------------
+
       </div>
     </Layout>
   )
@@ -237,19 +216,35 @@ query MyQuery {
       rawMarkdownBody
     }
   }
-  allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
-    nodes {
-      caption
-      comments
-      id
-      likes
-      localFile {
-        publicURL
-      }
-      timestamp
-    }
-  }
 }
 `
+
+// export const pageQuery = graphql`
+// query MyQuery {
+//   allMarkdownRemark {
+//     nodes {
+//       frontmatter {
+//         abv
+//         ibu
+//         image
+//         title
+//       }
+//       rawMarkdownBody
+//     }
+//   }
+//   allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+//     nodes {
+//       caption
+//       comments
+//       id
+//       likes
+//       localFile {
+//         publicURL
+//       }
+//       timestamp
+//     }
+//   }
+// }
+// `
 
 export default Index
