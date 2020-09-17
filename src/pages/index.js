@@ -69,7 +69,7 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Special Guest Nehalem River Ranch, check later for dates in July from 6-8 p.m.</h2>
+                <h2>CLOSED FOR SEPTEMBER 17 DUE TO SMOKE! Special Guest Nehalem River Ranch, check later for dates in September from 6-8 p.m.</h2>
                <p>Order in advance here <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
