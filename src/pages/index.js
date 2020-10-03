@@ -70,7 +70,7 @@ const Index = ({ data }) => {
               <header className="major">
                 <h2>About Funhouse Brews</h2>
                 <h2>Closed for October 8 - Special Event October 29 - Wild Mushrooms, Cheese, and Puppies! Special Guest Terra Farma Nehalem River Ranch and Terra Farma 6-8 p.m.</h2>
-               <p>Wild Foraged mushrooms sauted with fresh cheese or plain 5-8 p.m. Great Pyranese Puppies from Terra Farma here to entertain us! <a href="https://www.nehalemriverranch.com/products" target="blank">at
+               <p>Wild Foraged mushrooms sauted with fresh cheese or plain 5-8 p.m. Great Pyranees Puppies from Terra Farma here to entertain us! <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
                   <h2>Terra Farma</h2>
