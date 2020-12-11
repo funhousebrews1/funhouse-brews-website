@@ -155,12 +155,12 @@ const Index = ({ data }) => {
           <header className="major">
             <h2>Growler Fill Thursdays!</h2>
             <p className="line-breaks">
-              We will be closed July 16th for Summer Break, reopening July 23 (COVID social distancing and sanitization measures in effect).
+              (COVID social distancing and sanitization measures in effect).
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
               (We will usually be closed in the event of rain.) <br />
               $10 fill! <br />
-              6-8 p.m. at the Funhouse Brewery on Thursdays <br />
+              6-8 p.m. at the Funhouse Brewery on Thursdays after daylight savings, 5-7 p.m. during daylight savings <br />
               7717 N Emerald Ave <br />
               Portland, OR 97217 <br />
               Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br />
