@@ -69,7 +69,7 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Closed for December 17 - Winter hours will continue through the holiday! CLOSED Dec. 17! Open Dec. 24 and 31!</h2>
+                <h2>Open for the Spring! - New hours 5 - 8 p.m.! Terra Farma returns on April 29</h2>
                <p>Check  out our partners: <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
