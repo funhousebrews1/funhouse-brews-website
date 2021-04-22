@@ -74,7 +74,7 @@ const Index = ({ data }) => {
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
                   <h2>Terra Farma</h2> <a href="https://terrafarmers.net" target="blank">
-                  <img src="http://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img> </a>
+                  <img src="https://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img> </a>
                   
                               
    <p>
