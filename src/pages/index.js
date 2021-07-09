@@ -69,7 +69,7 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Open for the Summer! - New hours 5 - 8 p.m. Thursdays! Terra Farma returns on June 24 along with Nehalim River Ranch! Pick up your order here at Funhouse</h2>
+                <h2>Open for the Summer! - New hours 5 - 8 p.m. Thursdays! Trivia on July 28 at 7:30 pm. Terra Farma returns on July 29 along with Nehalim River Ranch! Pick up your order here at Funhouse</h2>
                <p>Check  out our partners: <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
