@@ -69,7 +69,7 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Open for the Summer! - New hours 5 - 8 p.m. Thursdays! Closed for Thanksgiving 2021 Terra Farma pick-ups on site along with Nehalim River Ranch! Pick up your order here at Funhouse</h2>
+                <h2>Open for the Winter! - New hours 5 - 8 p.m. Thursdays! Closed for February 24 2022 Terra Farma pick-ups on site along with Nehalim River Ranch! Pick up your order here at Funhouse</h2>
                <p>Check  out our partners: <a href="https://www.nehalemriverranch.com/products" target="blank">at
                 Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
                 <p className="line-breaks"> </p>
@@ -159,7 +159,7 @@ const Index = ({ data }) => {
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
               (We will usually be closed in the event of rain.) <br />
-              $10 fill! <br />
+              $12 fill! <br />
               6-8 p.m. at the Funhouse Brewery on Thursdays after daylight savings, 5-7 p.m. during daylight savings <br />
               7717 N Emerald Ave <br />
               Portland, OR 97217 <br />
