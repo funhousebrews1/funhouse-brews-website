@@ -69,9 +69,9 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Open for 2022! - New hours 5 - 8 p.m. Thursdays! Closed October 13 for travel. Featuring Derek Smith on Thursday September 29 and Shirts on Tap this month <img src="https://i.imgur.com/xwysPWd.jpg"></img>. Terra Farma pick-ups on site! Pick up your order here at Funhouse</h2>
-               <p>Check  out our partners: <a href="https://www.nehalemriverranch.com/products" target="blank">at
-                Nehalem River Ranch</a><img src="https://images.squarespace-cdn.com/content/5cfa9c7aeb4639000180098d/1560181363290-V5374X44EI6L5WJOVU7K/logo.png"></img></p>
+                <h2>Open for 2023! - New Winter hours 5 - 8 p.m. Thursdays! Closed January 26 and Feb 2 for travel. <img src="https://i.imgur.com/xwysPWd.jpg"></img>. Terra Farma pick-ups on site! Pick up your order here at Funhouse</h2>
+               <p>Check  out our partners: at
+                </p>
                 <p className="line-breaks"> </p>
                   <h2>Terra Farma</h2> <a href="https://terrafarmers.net" target="blank">
                   <img src="https://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img> </a>
@@ -158,14 +158,14 @@ const Index = ({ data }) => {
               (COVID social distancing and sanitization measures in effect).
               Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
-              (We will usually be closed in the event of rain.) <br />
+              (We will are open in the event of rain.) <br />
               $12 fill! <br />
               6-8 p.m. at the Funhouse Brewery on Thursdays after daylight savings, 5-7 p.m. during daylight savings <br />
               7717 N Emerald Ave <br />
               Portland, OR 97217 <br />
               Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br />
 
-              Occasional Music featuring John White
+            
             </p>
           </header>
         </section>
