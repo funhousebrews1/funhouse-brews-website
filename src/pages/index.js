@@ -75,7 +75,7 @@ const Index = ({ data }) => {
                 <p className="line-breaks"> </p>
                   <h2>Terra Farma</h2> <a href="https://terrafarmers.net" target="blank">
                   <img src="https://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img> </a>
-                 </p> 
+             
                               
    <p>
                 A North Portland home-based Nanobrewery, Funhouse operates a 2 bbl. system and self-distributing 1/4 and 1/6 barrels. Brewmaster Jason Rizos began brewing in 2001, obtained BJCP Certification in 2006, and has won medals at the Best Florida Beer Competition, Oregon Fall Classic, and Oregon State Fair. Funhouse Styles are handcrafted, unorthodox, “chimerical” crossbreeds of classic styles, with a focus on processes and ingredients impractical or impossible on a scale larger than 2 bbls.
