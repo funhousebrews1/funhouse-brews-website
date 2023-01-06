@@ -69,12 +69,12 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Open for 2023! - New Winter hours 5 - 8 p.m. Thursdays! Closed January 26 and Feb 2 for travel. <img src="https://i.imgur.com/xwysPWd.jpg"></img>. Terra Farma pick-ups on site! Pick up your order here at Funhouse</h2>
+                <h2>Open for 2023! - New Winter hours 5 - 8 p.m. Thursdays! Closed January 26 and Feb 2 for travel. Terra Farma pick-ups on site! Pick up your order here at Funhouse</h2>
                <p>Check  out our partners: at
                 </p>
                 <p className="line-breaks"> </p>
                   <h2>Terra Farma</h2> <a href="https://terrafarmers.net" target="blank">
-                  <img src="https://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"></img> </a>
+                  <img src="https://terrafarmers.net/wp-content/uploads/2014/07/cropped-terrafarmabanner1.png"/> </a>
              
                               
    <p>
