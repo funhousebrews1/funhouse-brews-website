@@ -158,11 +158,12 @@ const Index = ({ data }) => {
              Please Note, we accept Venmo as payment (funhousebrews).
 Sign up for Venmo prior to arrival and we can process payment on site. <br />
               (We will are open in the event of rain.) <br />
-              $12 fill! <br />
+              $14 fill! <br />
               6-8 p.m. at the Funhouse Brewery on Thursdays after daylight savings, 5-7 p.m. during daylight savings <br />
               7717 N Emerald Ave <br />
               Portland, OR 97217 <br />
               Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br />
+            <a href='https://www.restaurantji.com/or/portland/funhouse-brews-/' target="_blank">Funhouse Brews</a> is recommended by <a href="https://www.restaurantji.com" target="_blank">Restaurantji</a> - your local dining guide.
 
             
             </p>
