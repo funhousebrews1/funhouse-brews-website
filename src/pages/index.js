@@ -163,7 +163,12 @@ Sign up for Venmo prior to arrival and we can process payment on site. <br />
               7717 N Emerald Ave <br />
               Portland, OR 97217 <br />
               Drop by or send an email to <a href="mailto:funhousebrews@gmail.com">funhousebrews@gmail.com</a> <br />
-            <a href='https://www.restaurantji.com/or/portland/funhouse-brews-/' target="_blank">Funhouse Brews</a> is recommended by <a href="https://www.restaurantji.com" target="_blank">Restaurantji</a> - your local dining guide.
+            <div><link rel="stylesheet" href="https://cdn6.localdatacdn.com/badges/restaurantji/css/badge-1.css?v=32816"><div id="circle_v2" class="v5 v5_1" tabindex="0"><img class="animated_logo" src="https://cdn6.localdatacdn.com/badges/restaurantji/img/rj-short.gif" width="105" height="105"/>
+            <div class="rb_flex rb_top"><div class="arc-heading "><svg height="160px" viewBox="0 0 160 160" width="160px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M 30 80 a 50 50 0 1 1 110 0" id="heading-arc">
+            </path></defs><text class="arc-heading__heading " fill="#000" text-anchor="middle"><textPath startOffset="50%" xlink:href="#heading-arc"><a href="https://www.restaurantji.com/or/portland/funhouse-brews-/" target="_blank">Recommended</a></textPath></text></svg>
+            </div><div class="arc-heading arc-heading__bottom"><svg height="140px" viewBox="0 0 140 140" width="140px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>
+          <path d="M 12 60 a 55 55 0 0 0 140 0" id="subheading-arc" stroke="red">
+          </path></defs><text class="arc-heading__subheading" fill="#000" text-anchor="middle"><textPath startOffset="50%" xlink:href="#subheading-arc"><a target="_blank" href="https://www.restaurantji.com">Restaurantji</a></textPath></text></svg></div></div></div></div>
 
             
             </p>
