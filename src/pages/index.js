@@ -69,7 +69,7 @@ const Index = ({ data }) => {
             <div className="content">
               <header className="major">
                 <h2>About Funhouse Brews</h2>
-                <h2>Open for 2024! - New Summer hours 5 - 8:30 p.m. Thursdays! Closed for September 12! Closure dates will be listed here and on Google Business listing. Terra Farma pick-ups on site! Pick up your order here at Funhouse (confirm pick-up date in advance) </h2>
+                <h2>Open for 2024! - Pick up to-go Growlers ($15) and Cans ($5) only, for the foreseeable future. We no longer host on-site consumption. Closure dates will be listed here and on Google Business listing. Terra Farma pick-ups on site! Pick up your order here at Funhouse (confirm pick-up date in advance) </h2>
                <p>Check  out our partner: at
                 </p>
                 <p className="line-breaks"> </p>
